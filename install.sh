@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cp menu/*.png ~/apps/launcher/Menu/mygames
-cp menu/*.sh ~/apps/launcher/Menu/mygames
+cp menu/*.png ~/apps/Menu/mygames
+cp menu/*.sh ~/apps/Menu/mygames
 
