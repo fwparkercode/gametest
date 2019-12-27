@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3.7 ~/games/gameshell_template/src/text.py
+python3.7 ~/games/gametest/src/test.py
